@@ -4,4 +4,11 @@ Dette er en endring!
 
 å nei! enda en endring!
 
+<<<<<<< HEAD
 slutt å klag! Jobb!!
+=======
+
+
+
+BOSSEN ENDRER IGJEN!!!
+>>>>>>> origin/master
